@@ -15,7 +15,7 @@ A full-stack todo list application built with NestJS, TypeScript, PostgreSQL, an
 
 - Node.js (v14 or higher)
 - PostgreSQL
-- npm or yarn
+- npm
 
 ## Setup
 
@@ -45,8 +45,8 @@ npm run start:prod
 ```
 
 5. Open the application in your browser:
-- Navigate to `http://localhost:3000` for the API
-- Navigate to `http://localhost:3000/public/index.html` for the frontend
+- Navigate to `http://localhost:3002` for the API
+- Navigate to `http://localhost:3002/public/index.html` for the frontend
 
 ## API Endpoints
 
@@ -91,15 +91,3 @@ shared-todo-app/
 ├── tsconfig.json
 └── README.md
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
